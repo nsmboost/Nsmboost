@@ -18,3 +18,7 @@ include 'header.php';
 
 <?php include 'footer.php'; ?>
 
+<?php
+$page_title = 'Contact Us';
+include 'header.php';
+?>
