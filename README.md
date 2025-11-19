@@ -8,5 +8,5 @@ Nsmboost is a social media marketing platform that offers affordable services to
 3. Update the `includes/config.php` file with your database credentials
 4. Upload the files to your server
 
-#yousaougarba@gmail.com#License
+## License
 Nsmboost is licensed under the MIT License. See the LICENSE file for more information.
